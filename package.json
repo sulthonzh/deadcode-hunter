@@ -1,0 +1,12 @@
+{
+  "name": "deadcode-hunter",
+  "version": "1.0.0",
+  "description": "Find unused exports and dead code paths in JS/TS projects",
+  "main": "index.js",
+  "bin": { "deadcode-hunter": "./cli.js" },
+  "scripts": { "test": "node test/index.test.js" },
+  "keywords": ["dead-code", "unused-exports", "static-analysis", "javascript", "typescript"],
+  "license": "MIT",
+  "author": "sulthonzh",
+  "repository": { "type": "git", "url": "https://github.com/sulthonzh/deadcode-hunter" }
+}
