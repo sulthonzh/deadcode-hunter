@@ -34,5 +34,8 @@
   "homepage": "https://github.com/sulthonzh/deadcode-hunter#readme",
   "bugs": {
     "url": "https://github.com/sulthonzh/deadcode-hunter/issues"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.31.0"
   }
 }
